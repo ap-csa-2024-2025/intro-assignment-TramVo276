@@ -13,8 +13,10 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
+* Something interesting about me is 
+You are funny
 * Ask Mr. Vu anything:
 * List your sports and extracurriculars you participate in
 hello
-Tri is a bad person
+Tri is an evil person
+
