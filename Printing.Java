@@ -11,7 +11,7 @@ public class Printing
         isGood = false; //variable intiaalization
 
         String name = "Tram Vo"; //set name to "Tram Vo"
-        System.out.print ("Hello my name is " + name);
+        System.out.println ("Hello my name is" + name);
     
     }
 }
