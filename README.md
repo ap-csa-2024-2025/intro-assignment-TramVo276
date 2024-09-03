@@ -19,4 +19,3 @@ You are funny
 * List your sports and extracurriculars you participate in
 hello
 Tri is an evil person
-
